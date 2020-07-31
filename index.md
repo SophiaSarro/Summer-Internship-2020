@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Summer Internship 2020
 
-You can use the [editor on GitHub](https://github.com/SophiaSarro/Summer-Internship-2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What We Did
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This summer, I collaborated with Luke Giuntoli, Augusta Holyfield, Natalie DiMattia, and Anne-Catherine Schaaf, as well as Professors Neel Smith and Karen Ober, in order to conduct research on tenth and eleventh century manuscripts of the _Iliad_. This research directly built off of the transcription and analysis of manuscripts that I did last year with Luke Giuntoli, Thomas Posillico, and Professor Smith. Having already edited Book 9 of the _Iliad_ in the Upsilon 1.1 and Venetus B manuscripts, my colleagues and I organized this data by means of topic modeling, and word frequency tables. In addition, we continued to transcribe the aforementioned manuscripts, as well as editing parts of the Townley manuscript and revising the Homer Multitext Project's previous publication of the Venetus A manuscript to match our current standards. Notably, our team had a long list of objectives this summer. Part of this was intentional; no matter which manner of analysis we chose, we would have simultaneously continued editing in order to have a sizeable corpus of data. However, pursuing quite this many modes of analysis had not been the original plan. Due to the pandemic and the cancellation of the college's summer research program, we consolidated two separate research projects into a singular internship program. Not only did this allow us to go forward with our research, but it created an opportunity for us to engage in modes of analysis we did not originally intend on using. Overall, the internship allowed me to add more data to the corpus I will analyse for my thesis, as well as expanding my command of different analysis techniques.
 
-### Markdown
+## Where to Go From Here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SophiaSarro/Summer-Internship-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having accomplished so much this summer, it would be a shame to stop our progress at the end of the internship. Thankfully, our work is part of the Homer Multitext Project, an international research initiative dedicated to creating diplomatic editions of all extant Homeric manuscripts. Scholars from anywhere in the world can take our research and build off of it, coming to conclusions of their own. As for my own involvement in the project, I plan to use our updated corpus of data to perform more topic modeling for my senior thesis. I have already amassed a list of words that I will focus in on, seeing with which words they most often co-occur. Additionally, having research experience will be a great asset when applying to graduate school this year. Regardless of whether I work with Homeric texts in particular while in grad school, the research methods I used this summer will doubtlessly be of aid. 

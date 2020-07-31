@@ -7,4 +7,4 @@ This summer, I collaborated with Luke Giuntoli, Augusta Holyfield, Natalie DiMat
 
 ## Where to Go From Here
 
-Having accomplished so much this summer, 
+Having accomplished so much this summer, it would be a shame to stop our progress at the end of the internship. Thankfully, our work is part of the Homer Multitext Project, an international research initiative dedicated to creating diplomatic editions of all extant Homeric manuscripts. Scholars from anywhere in the world can take our research and build off of it, coming to conclusions of their own. As for my own involvement in the project, I plan to use our updated corpus of data to perform more topic modeling for my senior thesis. I have already amassed a list of words that I will focus in on, seeing with which words they most often co-occur. Additionally, having research experience will be a great asset when applying to graduate school this year. Regardless of whether I work with Homeric texts in particular while in grad school, the research methods I used this summer will doubtlessly be of aid. 
